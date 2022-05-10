@@ -30,4 +30,4 @@ Loans with below characteristics have high chances of becoming defaulters
 
 ## Contact
 
-Created by [@githubusername]
+Created by [@VJ-Jain] https://github.com/VJ-Jain
